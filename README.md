@@ -1,1 +1,5 @@
-# about
+- 👋 Hi, I’m @jestocjofficial
+- 👀 I’m interested in Ethical Hacking, Programming...
+- 🌱 I’m currently learning Ethical Hacking
+- 💞️ I’m looking to collaborate on Programming
+- 📫 How to reach me 9544992177 / jestocjofficial@gmail.com
