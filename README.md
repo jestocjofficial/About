@@ -14,6 +14,8 @@ Javascript
 ```
 Which I want to build my own sites and apps. I want to be an ethical hacker at a very early age and become popular... That's my dream
 
+Connect with me :
+
  - My Website : [Website](https://jestocjofficial.repl.co/)
  - Instagram : [Instagram](https://www.instagram.com/jestocjofficial/)
  - Facebook : [Facebook](https://www.facebook.com/jestocjofficial)
@@ -22,4 +24,3 @@ Which I want to build my own sites and apps. I want to be an ethical hacker at a
  - Dribbble : [Dribbble](https://dribbble.com/jestocjofficial)
  - Patreon : [Patreon](https://www.patreon.com/jestocjofficial/)
  - Facebook Page : [Page](https://www.facebook.com/jestocjofficialpage)
- - <a href="http://example.com/" target="_blank">example</a>
